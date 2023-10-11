@@ -1,0 +1,749 @@
+NoNonsenseFX Notes:
+
+-------------------------PODCAST 3 - 12 (13 is in trade psychology as 1) ----------------------------------------------
+
+3. Which Time Frame In Forex Gives You The Best Results?
+
+	Answer: The Daily Chart, by a long shot
+
+4. How Many Currency Pairs Should You Trade?
+
+	Answer: All currency pairs that include the 8 major economies (not EUR/CHF)
+			USD, EUR, GBP, AUD, CAD, NZD, JPY, CHF
+		But be careful about pairs involving the USD, because we want to stay unpopular
+
+5. How Much Money Do You Need To Trade Forex Professionally?
+
+	Answer: As an independent trader - min. $300.000,- / 
+		In a prop firm - High level of knowledge and experience
+
+6. How Long To Demo Trade Forex?
+
+	Answer: Atleast 6 months, but longer if you're not seeing good results.
+		But remember making the jump to real money is essential if you want
+		to become a professional FX trader
+
+7. What Equipment Do I need To Trade Forex?
+
+	Answer: Just a laptop
+
+8. Where do I set my leverage?
+
+	Answer: 20 to 1 or go 40 to one if you keep 50% of your trading capital in the bank
+		and the other part in your account
+
+9. Should I Buy Forex Indicators?
+
+	Answer: No, because (1) they are made by programmers and not traders and (2) some
+		indicators that you have to pay for are terrible, some are good/great, and some
+		that are free are terrible and some good/great
+
+		Find an indicator(s) that confirms whether you should go long or go short
+		Find an indicator(s) that tells you to exit
+
+10. Forex Broker Review - 4 Things to Always Look For
+
+	Answer: (1) The broker is big and has insurance
+		(2) Allows you to demo trade for as long as you want
+		(3) Comes with an MT4 option
+		(4) Has good customer service
+
+11. Forex Journal Do's and Don'ts
+
+ 	Answer: https://docs.google.com/spreadsheets/d/1TJFL1VeZDrlUei9AdJVvl1Fj1RwzEPPXlGBWPQhStaY/edit#gid=0
+
+12. Is Forex Recession-Proof?
+
+	Answer: Yes, but that doesn't mean that you as an individual are recession proof
+
+---------------------------------CORE CONCEPTS (2 - 6)-----------------------------------------
+
+2. Best FX Trading Strategies (THE Top Strategy for Forex Trading)
+
+	Answer: The reason price moves is all because of the BIG BANKS.
+		The way we avoid being hit by the big banks is the become a trader that
+		trades in a unpopular way.
+
+3. Big Banks Part Two
+
+	Answer: Understand the phenomenon of the big banks and price, don't fight it,
+		understand sentiment's role in FX (majorty % goes long/short) and always
+		be an unpopular trader:
+
+		Be wary of USD pairs, don't use the same indicators everyone else uses, don't
+		trade news events and just stick to your algorithm and Money Management
+
+4. The Best FX Trading Tip I Could Ever Give You (Crucial)
+
+	Answer: Eliminate the things that are bringing your account down, you must know that
+		first and foremost.
+
+		(1) Stop using tools that don't work
+		(2) Stop trading by "I feel like x will happen
+				     because [insert dumb illogical reason]"
+		(3) Stop trading without a trade/money management system in place
+
+
+5. Forex Reversal Trading vs Trend Trading (Don't Screw This Up)
+
+	Answer: Trend trading >>> Reversal trading, because we are not being popular and
+		reversal trading makes it too hard to make consistent money in forex.
+
+6 Dirty Dozen
+
+	Answer: (1) News
+		(2) Trend Lines (number 1 worst)
+		(3) Support/Resistance lines
+		(4) RSI
+		(5) Bollinger Bands
+		(6) Fibs
+		(7) Japanese Candlesticks
+		(8) Stochastics O.
+		(9) Moving Average Crossovers
+		(10) Chart Patterns
+		(11) CCI
+		(12) Price Levels
+		(13) ADX
+		(Extra) Any indicator that dictates whether price is over(bought / sold)
+
+
+
+------------------------TRADE PSYCHOLOGY (1 - 7) / (9 - 14) / (16 - 18)------------------------------------------------
+
+1. Forex Trading Psychology - Top 3 Things You Need As A Trader
+
+	Answer: (1) Initiative
+		(2) Discipline
+		(3) Patience
+
+2. Forex Trading Psychology - Initiative - Get Some!
+
+	Answer: Just a motivational video
+
+3. Forex Trading Discipline - You Have No Choice Here
+
+	Answer: (REALLY IMPORTANT) (1) Take the time to develop a system
+				   (2) Take trades that satisfy your entire system
+				   (3) Don't look at it!
+		Don't deviate from the system and realize that you're not smarter than
+		your system
+
+4. Forex Losing Streaks - How To Deal
+
+	Answer: Don't panic, losing streaks are nothing out of the ordinary. Don't change
+		your system that you spend so long (back/forward) testing. Keep trading
+		and keep improving (not changing) your system
+
+5. Forex Trading Psychology - Patience (You Lack It)
+
+	Answer: Have an overall patient approach to FX, this is not a make money quick business.
+		Embrace the long game and do what needs to be done to become a better trader
+		day-in day-out, because most traders don't have this.
+
+6. Forex Trading Psychology - How To Screw Up Winning Trades
+
+	Answer: AGAIN 	(1) Take the time to develop a system
+	       	        (2) Take trades that satisfy your entire system
+	    	        (3) Don't look at it!
+		If you start winning big, don't let it get to your head and think you can start
+		risking more. Keep following the same steps.
+
+		If you're winning small, don't let it get to your head and start making changes
+		to your system, YOU ARE WINNING. Keep following the same steps
+
+7. Forex Trading Psychology - How To Lose
+
+	Answer: REMEMBER SAME THING STEPS 1, 2 and 3.
+		Take the testing fases of your system extremely seriously, let losses happen
+		and make sure you're good to go systematicaly and emotionally.
+
+9. Worst Market Ever For FX Traders?
+
+	Answer: AGAIN THE SAME STEPS 1, 2 and 3.
+		If there is ever a bad market, don't let it phase you and keep trading (as long
+		as your system tells you to). Don't make trades just because you want to have
+		a trade open or because of FOMO.
+
+10. Desperation The Destroyer
+
+	Answer: Desperation will lead to the number 1 thing that goes against trade psychology,
+		which is trading with emotion. Embrace the long game and embody a patient
+		approach to FX and trading.
+
+11. "Trading The Zone" By Mark Douglas
+
+	Answer: Not much info that hasn't been talked about. 
+
+12. It's A Conspiracy!
+
+	Answer: Don't let your own thought/biases about what's going on behind the scenes
+		affect your investments too much, because you could be wrong.
+		Don't group-think
+
+13. Experience - There Is No Substitute
+
+	Answer: In the world of FX there is nothing that makes a trader more valuable than his
+		experience. A trader must make the jump from demo money to real money if he
+		wants to become a pro FX trader, because Demo- and RM trading are a different
+		ball game. Experience is also necessary to further develop your Trade 
+		Psychology
+
+		Real Money Trading Experience >>> Demo Trading Experience.
+
+14. No Goals, No Projections
+
+	Answer: This video is a sequel* to the patience video. Pretty much you shouldn't set
+		goals and make projections in your FX career, but you should focus all your
+		time and energy on just becoming a better trader everyday. Goals can be good
+		if they're realistic and give you motivation/discipline, but not if they're
+		unrealistic and/or lead to desperation.
+
+16. FOMO (Fear Of Missing Out) In Investing
+
+	Answer: (1) FOMO trading is bad if you're trading with your emotions and not your system
+		(2) FOMO can be good if you have a plan and do it right
+
+		FYMO (Fear You Missed Out) can be good if you trade with money you can lose and
+		also remember, unless you're system tells you that you missed out, you should
+		never make assumptions about the market or the price just because you feel like it
+
+
+17. Perseverance - Just Keep Trading
+
+	Answer: Whatever happens in your FX career, just keep trading and don't quit. If you
+		fail realize you have so many options since you developed a skill that can make
+		you and other people money that you can use, teach, automate, etc.
+
+		The goal with Trade Psychology is becoming completely zen when you trade and
+		remove any emotion that interferes with trading FX.
+
+
+
+
+---------------------------------MONEY MANAGEMENT (1 - 14)-------------------------------------
+
+1. The Money Management Forex Traders MUST Understand
+
+	Answer: Pretty much a introduction to the playlist where he tells you that Money
+		Management is the most important thing in Forex Trading and will set you
+		apart from other traders.
+
+2. The ATR Indicator Is The Single Best Indicator Forex Traders Can Have (Use It or Lose It)
+	
+	Answer: The ATR is incredibly important in FX because it calculates the risk that
+		comes with a currency pair and knowing your risk is essential.
+
+
+3. Forex Risk -- A Structure You Can Follow Right Now
+
+	Answer: Magic # For the ATR = 1.5x the ATR for a currency pair
+		Your SL should be 1.5x the ATR away from where price is now
+
+		(1) Find out what 2% of your account is = Your Risk
+		(2) Figure out 1.5x ATR of the currency pair
+		(3) RISK / 1.5 ATR = Pip value (example: $6 per pip)
+
+		Algorithm (system)
+		(1) ATR
+		(2)
+		(3) Confirmation indicator
+		(4)
+		(5)
+		(6) Exit indicator
+
+		Do not trade the same currency more than once at 2% risk (Example):
+		EUR/USD short, AUD/USD short, USD/JPY long, etc.
+
+		If you get a long signal EUR/JPY and EUR/AUD, pick one and ride it.
+		You can't take every trade, unless you go 50/50 (1%) in this case
+
+
+4. Leverage and Margin in Forex Trading (SAME AS IN PODCAST 8)
+5. Forex Journal Do's and Don'ts (Same as Podcast Episode 11)
+
+6. Forex Risk Ratios - Should You Use Them?
+
+	Answer: Don't use ratios ever (2:1, 3:1, etc.), don't take profit at major S&R levels,
+		have a plan that involves scaling out and never cap your upside.
+
+7. Exit Indicators and Time (Podcast Episode 18)
+
+	Answer: A trade should only end in 3 ways: (1) It hits your SL
+						   (2) It hits your break-even SL
+						   (3) Your exit indicator says the trend is
+						       over and you should exit
+
+		Your Exit Indicator should have 2 things: (1) Be able to let the trade breath
+							      and not cap your upside.
+							  (2) Should get you out of a trade
+							      before price goes down and hits
+							      your break-even SL
+						  
+8. Heiken Ashi Trading Strategy - Forget What You've Heard
+
+	Answer: How not to use the Heiken Ashi:
+					(1) Do not enter trades using Heiken Ashi
+
+		How to use the HA:
+				(1) Enter a trade using your own system (trend)
+				(2) Take initial profit and scale out. Move SL to BE
+				(3) AFTER 2!!! Use HA to manage the rest of your trade
+				(4) You can use the HA to measure the results against other
+				    exit indicators you find. If it does worse than the HA,
+				    you should ditch it.
+
+		The Heiken Ashi is better than nothing, for beginners only, always look for
+		a better exit indicator. Once you find something better, you won't need HA.
+
+9. Forex Trade Management - Scale Out!!
+
+	Answer: How to enter a trade:
+			(1) Figure out your risk.
+			(2) Enter two half trades.
+			(3) Put in SL
+			(4) Put in take profit (the exact ATR) on one
+			*(5) When the trade has hit your first take profit, you move the SL
+			     of the other trade to break-even
+		
+		If your price hits your TP, move your SL to break-even and then use your
+		other tools to let the trade run.
+
+10. Monthly Returns In Forex - What's Good? (Podcast Episode 20)
+
+	Answer: Don't set profit targets for the month, only look for long term results	
+		(6 months / 12 months)
+
+		A 6 to 12 month period shows you a more realistic view of what results your
+		system produces and/or will produce in the future
+
+11. Adding On To A Winning Trade (Podcast Episode 25)
+
+	Answer: Adding on to a trade means increasing your position in a trade when a
+		trade is going your way
+
+		Don't add on to a winning trade, because this is FOMO trading.
+		Your system that got you into that trade, got you in the trade at the exact
+		right time and you if you FOMO trade, you trade against your system.
+
+12. Dollar Cost Averaging and Martingale (Podcast Episode 40)
+
+	Answer: Don't DCA or use the Martingale system
+
+13. Trailing Stops In Forex
+
+	Answer: When to place a trailing stop?
+				(1) Price has closed > or = 2x ATR from your entry point
+				(2) The TS goes 1.5x ATR below the price
+				(3) If price goes according to plan (long/short) then move
+				    your TS by the same amount of pips that price moved from
+				    your entry level, but don't touch it otherwise
+	
+
+14. Don't Split Your Risk (Podcast Episode 72)
+
+	Answer: If you have your money in two different accounts/brokers, for example $10k in
+		account A and $10k in account B, then your risk should be 4% of that account
+		4% of $10k = $400,- and you should set your leverage to 30:1 or 40:1.
+
+		
+------------------------------------TECHNICAL ANALYSIS-----------------------------------------
+
+1. Forex Indicators - By Far, The Best Way To Trade
+
+	Answer: Indicators > Price Action
+		
+		9 Rules: (1) There is work involved
+			 (2) Forex is not stocks
+			 (3) There are > 35 indicators
+			 (4) Kill your sacred cow
+			 (5) Newer indicators are usually better than older ones
+			 (6) Trend >>> Reversals	
+			 (7) You have to test indicators
+			 (8) You'll need more than 1 indicator in your system
+			 (9) Money Management & Trade Pyschology >>> Technical Analysis
+
+		#1 Find better stand-alone indicators and combine THEM
+		#2 Test a bunch of indicators first, and then go in depth into the WINNERS
+		#3 Don't listen to other people when they talk about their 'success' with
+		   certain tools, it was not the tools/indicators they used but their MM & TP
+
+2. 12 Technical Analysis Forex Tools To AVOID Always
+
+	Answer: Already covered - Core concepts 6
+
+3. The ATR Indicator
+
+	Answer: Already covered in MM	
+
+4. The RSI Indicator is one of the WORST Forex Indicators You Could Possibly Use.
+
+	Answer: Don't use the RSI, EVER!!!
+
+5. Forex Trend Indicators for the No Nonsense Forex Algorithm
+
+	Answer: To find the best places that have the most indicators you should go to the
+		blog for episode 9
+
+		What to look for in a trend/confirmation indicator:
+				(1) Doesn't get you in too early
+				(2) Doesn't get you in too late
+				(3) Avoids whipsaws and false trends
+
+		Three Main Types of indicators:
+				(1) Zero-line cross: An indicator that tells you to enter a
+						     trade once it has crossed its zero line.
+
+				(2) Lines that cross each other: When one line crosses another,
+								 it's time to make a trade.
+								 (Aroon U&D is in the top 100)
+
+				(3) Chart indicators: Indicators that go on the charts that
+						      signals when a trend is changing. (It
+						      goes on the chart instantly and you don't
+						      have to put it there yourself)
+
+6.
+
+
+7. MACD Indicator (It's Not Great, BUT....)
+
+	Answer: If you find an indicator that has 2 lines that cross and have a 0-line:
+		
+		Longs:
+		1. The lines must be already above the 0 for longs
+		2. When they cross upward go long, but the line cannot have gone below 0-line
+
+		Shorts:
+		1. The lines must already be below 0 for shorts
+		2. When they cross downward go short, but the line cannot have gone 
+		   above the 0-line
+
+		1. Don't use the classic MACD's, but you can use the MACD's given in the blog
+		2. Don't use them to call reversals
+		3. The biggest trades you will make can happen because of an indicator that
+		looks like the MACD
+
+		¿ CONTINUATION INDICATOR part of the algorithm ?
+
+8. Forex Price Levels - Way Better Off Without Them
+
+	Answer: Ignore price levels completely, use indicators for entries and exits
+
+9. Heiken Ashi Trading Strategy - Forget What You've Heard (Same as in 8 of MM)
+
+10. The Best Forex Fibonacci Strategy Is Not To Do It
+
+	Answer: Don't use Fibs, ignore people who talk about them and use indicators instead
+
+11. Forex Indicator Basics (With a Bonus)
+
+	Answer: When using the ATR to dictate your risk, you should look at the ATR from the
+		candle that closed before the current candle to get the accurate ATR or
+		place a trade 30 min (max) before the candle closes.
+
+		To get the most accurate information from an indicator wait to the candle
+		closes or look at the charts 30 min (or less) before the candle closes.
+
+		How to read charts fast:
+		(0) Manage your current trades
+		(1) Take your main confirmation indicator
+		(2) Just read that one only
+		(3) If it gives you no signal than move on, but if it does then start looking
+		    at your other indicators in your system.  
+
+12. Forex Volume Indicator - Our Oxygen Meter
+
+	Answer: Algorithm UPDATED:
+		1) ATR
+		2) ???
+		3) Confirmation indicator
+		4) ???
+		5) Volume indicator
+		6) Exit indicator
+
+		What a good Volume indicator does:
+		1) Tells you when there is enough volume to trade
+		2) Prevents you from taking bad trades
+		3) Lags as little as possible
+		4) When volume isn't there = NO TRADE!!!
+
+		When backtesting a volume indicator, make sure you look at the trades that
+		the indicator told you not to participate (that would have been a loss) and
+		look at the trades the indicator told you not to participate in (that would
+		have been a win).
+
+		Taking less losses is equally as important as taking more wins
+
+13. Volume Indicators Part 2 (And A Free Tool)
+
+	Answer: Volume is not volatility.
+		*If your volume indicator doesn't stop you from trading once, then you don't
+		have a good volume indicator
+
+		Volume creates volatility and liquidity, they can both happen without volume
+		but it is very unlikely
+
+		Don't use the ATR as a volume indicator, because:
+		1) No consistency over time
+		2) The bar is always moving
+		3) Really hard to backtest
+
+		FREE TOOL:
+		1) barchart.com
+		2) $EVZ
+		3) Bookmark it
+		4) The number is 8
+
+		1) Volume and Volatility indis are in the same group
+		2) Use the tool if it helps
+		3) Always keep improving on this
+
+14. Forex Trend Lines Are A Bad Idea Always
+
+	Answer: Don't use trend lines, do this instead: 
+		1) Step outside of the bubble (dirty dozen)
+		2) Find and test some of the 1000s of other options
+		3) Combine the good tools
+		
+15. Lower Time Frames For Entries/Exits (Podcast Episode 30)
+
+	Answer: Trade the daily chart and don't use other time frames to make trades
+
+		"The DAILY chart" will lead to a little less wins that are BIG or GIGANTIC
+		"Lower time frame charts" will lead to a little more wins that are often small
+
+		The daily chart is overall the most accurate chart even compared to monthly and
+		weekly chart
+
+16. Faster Ways To Test Forex Indicators (Podcast Episode 32)
+
+	Answer: 5 categories to disqualify an indicator:
+		1) An indicator that only follows price
+		2) If the (screenshot) example shows that the indicator sucks, don't bother
+		3) If an indicator gives to many signals
+		4) Any indicator that goes on the chart and shows Support & Resistance
+		5) Any indicator you cannot modify or change the settings
+
+17. The Saga of the TDI Indicator
+
+	Answer: 1) Avoid the TDI indicator
+		2) Learn how to spot and test for "REPAINTING INDICATORS":
+			2.1) An indicator that shows different data after-the-fact
+			2.2) Gives different signals in hindsight than in real time
+
+18. Putting A Moving Average on an Indicator Makes Things Happen
+
+	Answer: If you find an indicator that isn't completely terrible, but isn't great eather
+		then put a moving average on it and see if it improves.
+
+		When adding a moving average (on an indicator that is a 0 line) it becomes
+		a two lines cross indi... aswell.
+
+19. Forex Chart Patterns - So Pretty, But So Deceiving
+
+	Answer: Don't pay attention to chart patterns
+
+20. My Forex Algorithm - Part 5 Revealed
+
+	Answer: Algorithm UPDATED:
+		1) ATR
+		2) ???
+		3) Confirmation indicator
+		4) 2nd Confirmation indicator
+		5) Volume indicator
+		6) Exit indicator
+
+		If your 1st confirmation indicator is one of these:
+		1) Zero-Cross ---> Either this will be the 2nd
+		2) Two Lines Cross ---> 1st
+		3) Chart indicator ---> Or this will be the 2nd
+
+		How to test:
+		1) Your main confirmation indicator makes all of the decisions for entry
+		2) The 2nd confirmation indicator should give the green/red light
+
+21. Price Action vs Indicators (Podcast Episode 37)
+
+	Answer: It doesn't matter, you can have success trading FX with the NNFX way or the
+		casuals way, but the NNFX way is still better and provides more success
+
+22. Renko Charts - Wanna Be A Pioneer?
+
+	Answer: There is an oppurtunity within Renko Charts, but it might also lead to a waste
+		of time.
+
+		Pros of RC's:
+		1) Filter out noise
+		2) Things like Fibs and Trend lines will be useless
+		3) Money Management will be tight
+		4) Since RC's will give indicators different data than regular charts, it can
+		   lead to some beautiful results with indicators you may have discarted
+
+		Cons of RC's:
+		1) Not always as good as it looks
+		2) Not very adjustable
+		3) You have to be present for every entry/exit, since RC's don't opperate on
+		   a single time frame
+
+23. Top 100 Forex Indicator - The SSL
+
+	Answer: The SSL in inside of VP's top 100 (50-100) indicators
+
+		It is a CONFIRMATION and an EXIT indicator that goes on the chart and VP had
+		some really good success with it. He recommends putting the alarms off, because
+		you want to let your system do what it does, and make sure you're trading with
+		a volume indicator.
+
+24. Forex Support and Resistance - Better Off Without It
+
+	Answer: Simple, DON'T USE S&R LINES!!! EVER!!!
+
+25. Exit Indicators - Worth A Lot More Than You Think
+
+	Answer: What an exit indicator does:
+		1) Gets you out at the most optimal point on a winning trade, and before it
+		   hits your Trailing Stop
+		2) Gets you out of a losing trade before it hits your SL
+		3) Tells you when to exit a stagnating trade
+
+		Rules of an exit indicator:
+		1) Can be the same as your Confirmation Indicator
+		2) If it's not the same as you CI, it only goes on the chart after you have
+		   entered a trade
+		3) Exit when it tells you to
+
+		Examples:
+		1) A two line cross would be the best for an exit indicator 
+		2) Could be your best reversal indicator. (When an exit indicator tells you
+		   that the price is going to other way (end of a trend), it doesn't persé
+		   mean that it tells you to enter a reversal)
+		3) Heikin Ashi
+		4) RELATIVE VIGOR INDEX (Not good for entries, decent for exits (a gate keeper
+		   like the Heikin Ashi)) How it works is when you look to exit, you wait
+		   for the "yellow" line that is behind the "red" line to cross with eachother.
+		   VP puts it on (8)
+
+26. Moving Average Crossovers in Forex -- There's a Better Way
+
+	Answer: (1) MA Crossovers are not the best way to trade, (2) having an MA as a baseline 
+		is way better
+
+		Final version of the algorithm:
+		1) ATR
+		2) BASELINE (Something that tells you that tells you you're in a trend)
+		3) Confirmation indicator
+		4) 2nd Confirmation Indicator
+		5) Volume indicator
+		6) Exit indicator
+
+		Basics of the Baseline indicator:
+		1) If price is above your baseline, you're not allowed to take shorts
+		2) If price is below your baseline, you're not allowed to take longs
+		3) Enter when price crosses and closes beyond the baseline
+		3.1) But your algorithm must allow it
+		
+		9 examples of Baselines:
+		SMA | EMA | TEMA | FRAMA | VIDYA | TMA/TRIMA | McGinley Dynamic | DEMA | AMA
+
+27. Forex Baseline - We Go Deep
+
+	Answer: When you use a baseline:
+		1) If price is above your baseline, you're not allowed to take shorts
+		2) If price is below your baseline, you're not allowed to take longs
+		3) Enter when price crosses and closes beyond the baseline
+		3.1) But your algorithm must allow it
+		4) Exit a trade when it crosses and closes the other way
+		
+		When making trades from now on, you should look at both your confirmation
+		indicator and your baseline
+
+		Where should your baseline go:
+		1) Match your baseline up with the rest of your algorithm
+		2) Everything needs to agree to trade
+		3) Ultimatily in a place which filter out losses
+
+		If your baseline tells you it's time to enter a trade, but your other
+		indicators aren't saying it yet, then wait for your indicators to give you a
+		signal
+
+28. Pullbacks In Forex - Don't Get Crazy Here
+
+	Answer: Rules for pullbacks:
+		1) Applies when price, in one candle, has shot way past your baseline
+		2) Do not enter if price has traveled more than 1x the ATR beyond it
+		3) Wait for a pullback (one candle rule)
+
+		If then:
+		(1) If you are just waiting for your indicators to catch up, and when they do,
+		price is more than 1x ATR. (2) Do not trade. Don't wait for a pullback. Abort.
+
+		Avoid PullBack-itis:
+		1) Only use this tactic when it applies
+		2) Never use it anywhere else
+		3) I don't care if price is one pip away from qualifying for this
+
+29. Forex Algorithm Trading - Continuation Trades
+	
+	Answer: REMEMBER:
+		1) If your exit indicator OR your confirmation indicator flips the other way,
+		   exit the trade
+		2) You're not necessarily done here
+
+		The Rules We Break/Follow
+		1) (Break) No trading if price goes past 1x ATR of the baseline
+		2) (Break) Ignoring the Volume Indicator
+
+		1) (Follow) Price must never have crossed the other way on our baseline
+		2) (Follow) Money Management is still the same
+
+30. Learn Ichimoku Kinko Hyo In Under 30 Minutes
+
+	Answer: 5 pieces of the Ichimoku Kinko Hyo:
+		1) Tenkan-san (fast MA)
+		2) Kijun-sen (slow MA)
+		3) Senkou Span A (makes the cloud)
+		4) Senkou Span B (makes the cloud)
+		5) Chikou Span (wild card)
+
+		Rules of the cloud:
+		1) If price is above (or below) the cloud, only long trades (or short) are
+		   allowed
+		2) If price is in the cloud, don't trade
+		2.1) Or risk half when you have a good entry system
+
+		Rules of Entry:
+		1) When the Tenkan crosses the Kijun upward when price is OVER the cloud,
+		   you go long
+		2) When the Tenkan crosses the Kijun downward when price is BELOW the cloud,
+		   you go short
+
+		Money Management:
+		1) Always have a stop loss
+		2) On winning trades, let the trade run until the price crosses and closes the
+		   other way across the Tenkan
+
+		Chikou Span:
+		1) Must be above the cloud for an allowed long
+		2) Must be below the cloud for an allowed short
+		3) This one is optional
+
+31. Ichimoku Strategy - Break It Down
+	
+	Answer: The Ichimoku is a basic system that will give you solid results, but never
+		good enough to make it to the pros
+
+		The Chikou Span should not be included
+
+		The only way you can use the Cloud is the standard way, but even that will not
+		end up being profitable over time
+		
+		Kijun-Sen = The only good part of the Ichimoku and is a great BASELINE top 100
+		Do not adjust the settings
+		Follow the instructions of the Baseline video at NNFX
+
+		Download for the kijun-sen: 
+		https://www.forexfactory.com/attachment/file/1180838?d=1366836061
+
+32. Williams%R Indicator - Flip It
+		
+
