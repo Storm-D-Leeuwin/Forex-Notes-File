@@ -1,0 +1,1 @@
+# Forex Notes File
