@@ -745,5 +745,16 @@ NoNonsenseFX Notes:
 		https://www.forexfactory.com/attachment/file/1180838?d=1366836061
 
 32. Williams%R Indicator - Flip It
+
+	Answer: Rules to use for the W%R Indicator:
+		1) Go lower than the normal setting (10 or lower)
+		2) Lower TF's do work better
+		3) It's a confirmation indicator
+		4) Not great for continuations
+		5) Wait for the line to enter overbought territory (0/-20) for a long
+		6) Wait for the line to enter oversold territory (-80/-100) for a short
+
+		Not an amazing indicator, but the main message is you should look for other
+		ways to use an indicator than how it's supposed to be used
 		
 
