@@ -799,6 +799,34 @@ NoNonsenseFX Notes:
 37. Elliot Waves -- The Bottomless Pit (Podcast Episode 64)
 
 	Answer: Don't invest in Elliot Waves, they try to predict what happens in the future
-		and you always want to TRADE THE MARKET IN FRONT OF YOU.
+		and you always want to TRADE THE MARKET IN FRONT
+
+38. Absolute Strength Indicators (2X)
+
+	Answer: Absolute Strength Indicators (2X) (All three TOP 100 INDICATORS)!!!
+
+		AS Histogram: https://www.best-metatrader-indicators.com/absolute-strength-histogram/
+		AS Oscillator: Dont know???
+		
+		REX (exit indi.) - https://www.youtube.com/watch?v=SPKBORvn4Vw
+
+39. Awesome Oscillator Explained (And Made Fun Of)
+
+	Answer: Not an amazing indicator, but know how to eyeball these which ones have
+		potential.
+
+40. DiDi Index (Top 100 (possibly 50) Forex Indicator)
+
+	Answer: Ways to use this indicator:
+		1) Get rid of the faster line
+		2) The default settings aren't the best
+		3) You can tweak the settings by altering MA2 and MA3!!! (IMPORTANT *MA3 to 25)
+		4) Can be a 1st or 2nd confirmation indicator
+		
+		After you have eliminated the faster line:
+		1) When the slower line goes above the 0 line, it's a short signal
+		2) When the slower line goes below the 0 line, it's a long signal
+
+		
 
 
