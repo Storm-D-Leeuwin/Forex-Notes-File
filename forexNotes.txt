@@ -769,5 +769,28 @@ NoNonsenseFX Notes:
 		3) ...but your confirmation indicator gave you the single more than 7+ candles
 		   ago
 		4) ...that means no trade
-		
+
+35. CCI Indicator - If You Only Knew
+
+	Answer: The CCI is pretty bad, there are WAY MORE indicators out there and when you
+		backtest your indicator, ALWAYS BE TRUTHFUL TO YOURSELF AND DON'T LIE
+
+36. Parabolic SAR - Yeah, No. But Maybe.
+
+	Answer: *VP doesn't like this indicator
+
+		How it works:
+		1) When the dots flip under the price, you go long
+		2) When the dots flip over the price, you go short
+		3) It is a reversal indicator (red flag)
+
+		If you want to trade the Parabolic SAR this is how you do it:
+		1) It only works when using it to dictate when continuation trades happen
+		2) For a short signal: (First place a baseline) Wait until the price is BELOW
+		   the baseline, and when it is see if the dots go ABOVE price first and then
+		   BELOW price. Like \/
+		3) For a long signal: (First place a baseline) Wait until the price is ABOVE
+		   the baseline, and when it is see if the dots go BELOW price first and then
+		   ABOVE price. Like /\
+
 
