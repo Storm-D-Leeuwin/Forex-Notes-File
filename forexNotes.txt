@@ -792,5 +792,13 @@ NoNonsenseFX Notes:
 		3) For a long signal: (First place a baseline) Wait until the price is ABOVE
 		   the baseline, and when it is see if the dots go BELOW price first and then
 		   ABOVE price. Like /\
+		
+		Much better options for trend trading, but if you use it ONLY use it for
+		continuation trades
+
+37. Elliot Waves -- The Bottomless Pit (Podcast Episode 64)
+
+	Answer: Don't invest in Elliot Waves, they try to predict what happens in the future
+		and you always want to TRADE THE MARKET IN FRONT OF YOU.
 
 
