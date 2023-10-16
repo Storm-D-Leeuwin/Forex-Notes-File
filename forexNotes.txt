@@ -756,5 +756,18 @@ NoNonsenseFX Notes:
 
 		Not an amazing indicator, but the main message is you should look for other
 		ways to use an indicator than how it's supposed to be used
+
+33. Japanese Candlesticks - You Need To Hear This
+
+	Answer: Don't use JC's to make trades
+
+34. Advanced Forex Strategy - NNFX Traders Only
+
+	Answer: A strategy/tip to follow:
+		1) Price must cross and close past your baseline
+		2) Everything (indicators) all lines up for a trade
+		3) ...but your confirmation indicator gave you the single more than 7+ candles
+		   ago
+		4) ...that means no trade
 		
 
