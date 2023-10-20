@@ -594,6 +594,8 @@ NoNonsenseFX Notes:
 		you want to let your system do what it does, and make sure you're trading with
 		a volume indicator.
 
+		https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbklQNzRtRncybEZCV2huaE9rVUZEZmhYZW5HUXxBQ3Jtc0ttRnVmTFUycWVkSVZKWFpZWmJRLUFnOU5SRkRXb2lCOHN5UmktT1lIRHRrQ3Q1ZFRSWnUxTmFHY0Vybld4NG1JNzV6b1paek9QRWlaS0ZRUC0zb1BRaGc3ai1oNEc1aWdia0dZVEMyZWlrMi10LVBicw&q=https%3A%2F%2Fwww.best-metatrader-indicators.com%2Fssl-channel-chart-alert-indicator%2F&v=Jv6KVnxdCjQ
+
 24. Forex Support and Resistance - Better Off Without It
 
 	Answer: Simple, DON'T USE S&R LINES!!! EVER!!!
@@ -826,6 +828,41 @@ NoNonsenseFX Notes:
 		After you have eliminated the faster line:
 		1) When the slower line goes above the 0 line, it's a short signal
 		2) When the slower line goes below the 0 line, it's a long signal
+
+------------------------------------------BACKTESTING------------------------------------------
+
+1. Backtesting Indicators (Podcast Episode 21)
+
+	Answer: BEFORE LOOKING FOR INDICATORS:
+		1) Watch the video (or summary) of the Trend Indicators / Scaling out
+		2) Read the blog for Trend Indicators / Scaling out
+
+		HOW TO BACKTEST A CONFIRMATION INDICATOR:
+		1) Pick a currency pair (daily chart)
+		2) First use the default settings
+		3) Put the ATR below that
+		4) Go back 6 to 12 months min. and 2 to 3 years back max.
+		5) Look at how many signals it gave you
+		6) Search for which signals gave you a win and which gave you a loss:
+			6.1) If the ATR was 80 pips, and after it gave you a entry signal
+			     price moved 80 pips in the right direction, ITS A WIN. If not,
+			     then it's a loss
+			6.2) Add up all the wins and losses and calculate your WIN/LOSS %
+			       	WIN
+			     ---------   =  WIN/LOSS %
+			     WIN + LOSS
+			     And put it all on a spreadsheet
+		7) End up with about 3 to 4 Confirmation Indi's that give you good results
+		   (60% or above WIN/LOSS %)
+
+2. Backtesting A Full System (Podcast Episode 47)
+
+	Answer: HOW YOU BACKTEST A FULL SYSTEM:
+		1) Decide how far back you want to go AND how many pairs you're going to test
+			1.1) At the start only go back about a year and only do a few pairs
+			1.2) If you're sure about your system, go back atleast 3 years
+		2) Every single time it (system) gives you a trade, you trade it
+		3) Calculate your ROI
 
 		
 
